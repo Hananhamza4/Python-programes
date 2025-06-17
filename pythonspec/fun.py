@@ -15,11 +15,12 @@
 
 # display_info("hanan","mangalath")
 
-def find_sum(*numbers):
-    result=0
-    for i in numbers:
-        result=result+i
-    print("sum= ", result)
+# def find_sum(*numbers):
+#     result=0
+#     for i in numbers:
+#         result=result+i
+#     print("sum= ", result)
 
-find_sum(1,2,3)
-find_sum(4,9)
+# find_sum(1,2,3)
+# find_sum(4,9)
+
